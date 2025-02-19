@@ -7,3 +7,5 @@ This is a fork project that enhances satellite detection in the Pose Bowl datase
 - **Data Preprocessing with Pandas**: Cleaning, transforming, and organizing the dataset efficiently.
 - **YOLO-based Satellite Detection**: Utilizing YOLO (You Only Look Once) for object detection.
 - **Optimized Data Splitting**: Implementing effective training-validation-test splits to improve model generalization.
+
+The main training script is [here](data/training_script.ipynb)
