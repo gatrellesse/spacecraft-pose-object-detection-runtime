@@ -1,0 +1,6 @@
+path: C://Users//DELL/Desktop//Data_Driven_NASA_Challenge//spacecraft-pose-object-detection-runtime//data//training_folders
+train: train//images
+val:   val//images
+test:  test//images
+nc:    1
+names: ['Sat']
